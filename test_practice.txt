@@ -1,0 +1,5 @@
+after making the changes for updating the git repository follow the below command
+
+1. git add .
+2. git commit -m "any message"
+3. git push
